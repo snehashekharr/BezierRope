@@ -18,15 +18,15 @@ The simulation updates at ~60 FPS and displays both the control points and the c
 ---
 
 ## File Structure
+
 BezierRope/
-│
 ├─ src/main/java/org/example/
-│ ├─ Main.java # Entry point, creates JFrame and adds BezierPanel
-│ └─ BezierPanel.java # Draws control points and Bezier curve
-│
-├─ pom.xml # Maven project file
-├─ .gitignore # Git ignore for IDE and build files
-└─ README.md # Project overview and instructions
+│  ├─ Main.java        # Entry point, creates JFrame and adds BezierPanel
+│  └─ BezierPanel.java # Draws control points and Bezier curve
+├─ pom.xml              # Maven project file
+├─ .gitignore           # Git ignore for IDE and build files
+└─ README.md            # Project overview and instructions
+
 
 ---
 
